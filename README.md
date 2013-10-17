@@ -1,4 +1,6 @@
-Java_-bungen
-============
+Java_uebungen
+=============
 
-Übungen zum Unterricht
+Dieses Repository wurde nur für die Java-Uebungen erstellt.
+
+GitHub :D
