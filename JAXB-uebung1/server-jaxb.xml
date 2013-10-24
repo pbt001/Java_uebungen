@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<haendler adr="schnoeselgasse 10" name="Schnosel &amp; Co" telnum="0676 schnoesel5">
+    <autoliste>
+        <auto farbe="Blau" hersteller="VW" marke="VW" modell="Cabrio" wert="30000"/>
+        <auto farbe="Rot" hersteller="Ferrari" marke="Ferrari" modell="Sport" wert="75000"/>
+    </autoliste>
+</haendler>
